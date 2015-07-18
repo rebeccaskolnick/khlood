@@ -24,6 +24,7 @@ CSS Queries
     .footer-leftcol p, .footer-rightcol p { text-align: center; }
     .footer-midcol ul { margin-top: 40px; }
     .submit-btn { margin-top: 10px; }
+    #khloudantics: { display: none }
 }
 @media only screen and (max-width:1200px) {
     nav { border-bottom: 0; }
